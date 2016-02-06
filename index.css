@@ -1,0 +1,72 @@
+h1 {
+  text-align: center;
+  font-size: 500%;
+  color: #FFFFFF;
+  background-color: auto;
+  width: 35%;
+  border-radius: 40px;
+  margin: auto;
+}
+
+h2 {
+  text-align: center;
+  font-size: 300%;
+  color: #FFFFFF;
+}
+
+h3 {
+  text-align: center;
+  color: #0A0A2A;
+  font-size: 200%;
+}
+
+h4 {
+  text-align: center;
+  font-size: 200%;
+  color: #0A0A2A;
+  }
+
+h5 {
+  text-align: center;
+  font-size: 100%;
+  color: #FFFFFF;
+}
+
+h6 {
+  text-align: center;
+  font-size: 200%;
+  font-color: FFFFFF;
+}
+
+body {
+  background-image: url("background.png")
+}
+
+#login{
+	
+	top: 20px;
+	width: 25%;	
+	margin-left: auto;
+	margin-right: auto;
+	background: silver;
+	text-align: center;
+	border-radius: 20px;
+
+}
+#login{
+	z-index: 22;
+}
+
+#register{
+	
+
+	width: 25%;	
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	background: silver;
+	border-radius: 20px;
+}
+#register{
+	z-index: 22;
+}
